@@ -1,0 +1,480 @@
+⭐ Concise Takeaway
+Build a calm, predictable, visually Indianized autism‑friendly website with WCAG/ADA accessibility, structured navigation, sensory‑safe design, clear parent pathways, therapy details, trainer hiring, and modern features inspired by top global autism centers.
+🌈 1. Core Design Philosophy (Autism‑Friendly + Modern)
+Predictable layout — no sudden animations, no moving menus.
+Simple colors — soft Indian palettes (mint green, sandalwood, turmeric yellow).
+Plain English + simple sentences — reduces cognitive load.
+Consistent navigation — same header/footer across all pages.
+Minimal distractions — no flashing banners, no autoplay videos.
+High contrast text — WCAG 2.1 AA compliant.
+Bullet‑based content — easier for neurodiverse readers.
+Indianized photos — children, teachers, therapy rooms, Indian families, Bangalore environment.
+🛡️ 2. Mandatory Accessibility Requirements (USA + India Standards)
+WCAG 2.1 AA compliance (global standard for school websites).
+Alt text for all images (screen reader friendly).
+Keyboard‑only navigation (for motor disabilities).
+Captions + transcripts for all therapy videos.
+High contrast ratio 4.5:1 for text.
+Clear, descriptive buttons (“Enroll Now”, “Therapy Programs”, “Book Assessment”).
+Avoid clutter, noise, ambiguity — essential for autistic users.
+🏫 3. Pages to Include (Inspired by Indian Autism Schools)
+A. Home Page (Calm + Visual + Indianized)
+Hero image: Indian children in therapy or sensory room.
+Tagline: “Empowering Neurodiverse Children in Bangalore.”
+Quick links:
+Programs
+Admissions
+Therapies
+Trainer Hiring
+B. About Us
+Founder story (your Aunt).
+Mission + vision.
+Indian cultural context of autism support.
+Collaboration with parents.
+C. Programs Offered
+Inspired by Tamana, India Autism Center, Aditya Birla Integrated School:
+Early Intervention
+Special Education
+ABA Therapy
+Speech Therapy
+Occupational Therapy
+Sensory Integration
+Life Skills & Vocational Training
+Parent Coaching Programs
+Inclusive Education Support
+D. Therapy & Intervention Page
+Step‑by‑step therapy process.
+Daily schedule.
+Therapist qualifications.
+Before/after progress stories (anonymous).
+E. Admissions Page
+Eligibility.
+Assessment process.
+Fee structure.
+Required documents.
+Online application form.
+F. Gallery (Indianized)
+Therapy rooms
+Sensory gym
+Outdoor play
+Classroom activities
+Parent workshops
+G. Blog / Resources
+Autism awareness
+Parenting tips
+Therapy guides
+Bangalore‑specific support resources
+H. Contact Page
+Google Map (Bangalore).
+WhatsApp button.
+Phone + email.
+Visiting hours.
+👩‍🏫 4. NEW PAGE: “Hiring Trainers” (Your Main Requirement)
+This page is unique, modern, and inspired by US autism centers’ hiring standards.
+Purpose
+Recruit special educators, therapists, shadow teachers, ABA trainers, speech therapists, OT therapists, etc.
+Sections to Include
+1. Hero Section
+Indian therapist working with a child.
+Title: “Join Our Mission — Become a Trainer at Our Autism School.”
+2. Why Work With Us
+Work with neurodiverse children.
+Training provided.
+Growth opportunities.
+Supportive environment.
+3. Roles We Are Hiring
+Special Educators
+ABA Therapists
+Speech Therapists
+Occupational Therapists
+Shadow Teachers
+Parent Coaches
+Behavior Interventionists
+4. Qualifications
+RCI certification (India).
+Autism‑specific training.
+Experience with neurodiverse children.
+Calm communication style.
+5. Skills Required
+Patience
+Structured teaching
+Sensory‑friendly communication
+Documentation skills
+Collaboration with parents
+6. Application Process
+Upload resume
+Fill form
+Attend demo session
+Final interview
+7. CTA
+Button: “Apply Now”
+Button: “Talk to HR on WhatsApp”
+🌍 5. Unique Global Features (Popular in USA & Japan)
+A. Sensory‑Safe Mode Toggle
+A button that switches the site to:
+No animations
+Reduced colors
+Larger text
+Minimal layout
+This is becoming popular in US autism schools.
+B. Visual Schedules
+Autistic children prefer predictable routines.
+Add a visual daily schedule with icons.
+C. Social Stories Section
+Short illustrated guides:
+“My First Day at School”
+“Meeting My Teacher”
+“Therapy Time”
+Very popular in US autism centers.
+D. Parent Training Portal
+Video lessons
+Worksheets
+Progress tracking
+WhatsApp reminders
+E. Virtual Tour
+Show therapy rooms, sensory gym, classrooms.
+F. Multi‑Language Support
+English + Kannada + Hindi.
+🎨 6. Design System for Cursor AI (Copy‑Paste Ready)
+Color Palette (Indianized)
+Mint Green (#A8D5BA) – calm
+Turmeric Yellow (#E8B400) – warm
+Sandalwood Beige (#F5E8D0) – soft
+Deep Teal (#1A5E63) – contrast
+Typography
+Headings: Merriweather / Playfair Display
+Body: Lato / Nunito (simple, readable)
+Imagery
+Use Indian children, Indian therapy rooms, Indian families.
+Avoid Western stock photos.
+🧩 7. Modern Features for Cursor AI Development
+AI‑Powered Features
+AI chatbot for parent queries
+AI‑generated therapy progress summaries
+AI‑based appointment scheduling
+AI‑based document upload + OCR for admissions
+Technical Requirements
+Fully responsive
+WCAG 2.1 AA compliant
+SEO optimized
+Fast loading
+No heavy animations
+Cursor AI code blocks for components:
+Hero section
+Card‑based program listing
+Trainer hiring form
+Gallery grid
+Blog layout
+📌 8. Final Deliverables You Can Build in Cursor AI
+Full website structure
+Page‑wise content
+Component code (React/Next.js)
+Image placeholders
+Form validations
+Accessibility‑friendly UI components
+
+🌈 HOME PAGE — Full Content
+Hero Section
+Empowering Neurodiverse Children in Bangalore  
+A calm, structured, and supportive learning environment for children with Autism, ADHD, and developmental delays.
+Buttons:
+Programs
+Admissions
+Therapies
+Contact
+Welcome Message
+Our Autism School in Bangalore provides early intervention, special education, therapy services, and life‑skills training for children with neurodevelopmental needs.
+We follow a structured, predictable, sensory‑friendly approach inspired by leading autism centers in India and worldwide.
+Quick Highlights
+Autism‑friendly classrooms
+Certified therapists
+Individualized Education Plans (IEPs)
+Speech, OT, ABA, and sensory integration
+Parent coaching and training
+Safe, inclusive environment
+Featured Programs
+Early Intervention (2–6 years)
+Special Education (6–18 years)
+Therapy Services (Speech, OT, ABA)
+Life Skills & Vocational Training
+Parent Coaching Workshops
+Why Choose Us
+Calm, predictable environment
+Indianized teaching materials
+Evidence‑based therapies
+Strong parent‑school partnership
+Progress tracking and regular reviews
+Testimonials
+Short, simple, anonymized quotes from parents.
+Call to Action
+Enroll your child in a supportive, structured, and caring environment.
+🏫 ABOUT US — Full Content
+Our Story
+This Autism School was founded by [Your Aunt’s Name], who has dedicated her life to supporting neurodiverse children in Bangalore. Her vision is to create a safe, structured, and nurturing space where every child can learn at their own pace.
+Mission
+To empower children with autism and developmental delays through structured teaching, therapy, and life‑skills development.
+Vision
+A world where neurodiverse children are understood, accepted, and supported to reach their full potential.
+Our Approach
+Predictable routines
+Visual learning
+Sensory‑friendly classrooms
+Individualized plans
+Collaboration with families
+Our Team
+Special educators
+Speech therapists
+Occupational therapists
+ABA therapists
+Shadow teachers
+Parent coaches
+📘 PROGRAMS — Full Content
+Early Intervention Program
+For children aged 2–6 years.
+Focus areas:
+Communication
+Social skills
+Sensory development
+Pre‑academic skills
+Behavior shaping
+Special Education Program
+Structured learning for children aged 6–18 years.
+Includes:
+Academic readiness
+Functional academics
+Daily living skills
+Social interaction
+Emotional regulation
+Therapy Programs
+Speech Therapy
+Communication
+Vocabulary building
+Social communication
+AAC support
+Occupational Therapy
+Fine motor skills
+Sensory integration
+Handwriting
+Daily living skills
+ABA Therapy
+Behavior modification
+Reinforcement‑based learning
+Structured tasks
+Skill generalization
+Life Skills & Vocational Training
+For older children and teens.
+Includes:
+Cooking basics
+Money handling
+Grooming
+Workplace behavior
+Simple vocational tasks
+Parent Coaching Program
+Parents learn:
+Home‑based strategies
+Behavior management
+Communication techniques
+Sensory support
+🧠 THERAPIES — Full Content
+Our Therapy Philosophy
+Therapies are designed to be structured, predictable, and child‑centered, following global autism standards.
+Daily Therapy Routine
+Warm‑up sensory activity
+Structured tasks
+Communication practice
+Movement break
+Review and reinforcement
+Therapist Qualifications
+All therapists are certified and trained in autism‑specific interventions.
+Progress Tracking
+Monthly reports
+IEP reviews
+Parent meetings
+Goal adjustments
+📝 ADMISSIONS — Full Content
+Eligibility
+Children aged 2–18 with:
+Autism
+ADHD
+Developmental delays
+Learning difficulties
+Sensory challenges
+Admission Process
+Parent inquiry
+School visit
+Child assessment
+IEP planning
+Enrollment confirmation
+Documents Required
+Birth certificate
+Medical reports
+Previous school records
+ID proof of parents
+Fees
+Transparent fee structure shared during consultation.
+Apply Now
+Button: Start Admission Process
+🖼️ GALLERY — Full Content
+Photos to Include (Indianized)
+Therapy rooms
+Sensory gym
+Classroom activities
+Outdoor play
+Parent workshops
+Indian families interacting with teachers
+📚 BLOG / RESOURCES — Full Content
+Topics
+Understanding Autism
+Sensory Needs
+Communication Tips
+Parenting Strategies
+School Readiness
+Bangalore Autism Support Resources
+📞 CONTACT US — Full Content
+Contact Details
+Address:  
+[Full Bangalore Address]
+Phone:  
+[Number]
+WhatsApp:  
+[Number]
+Email:  
+[Email]
+Visiting Hours:  
+Mon–Sat: 10 AM – 5 PM
+Map
+Embed Google Map of the school location.
+👩‍🏫 HIRING TRAINERS — Full Content
+Hero Section
+Join Our Mission — Become a Trainer at Our Autism School
+Why Work With Us
+Meaningful work
+Supportive environment
+Training provided
+Growth opportunities
+Roles Available
+Special Educators
+ABA Therapists
+Speech Therapists
+Occupational Therapists
+Shadow Teachers
+Parent Coaches
+Qualifications
+RCI certification preferred
+Autism‑specific training
+Calm communication style
+Experience with neurodiverse children
+Skills Needed
+Patience
+Structured teaching
+Sensory‑friendly communication
+Documentation skills
+Application Process
+Submit resume
+Fill application form
+Attend demo session
+Final interview
+Apply Now
+Button: Submit Application
+🌍 GLOBAL FEATURES TO INCLUDE
+Sensory‑Safe Mode
+Toggle for:
+Reduced colors
+Larger text
+No animations
+Visual Schedules
+Daily routine with icons.
+Social Stories
+Short illustrated guides:
+First day at school
+Meeting teachers
+Therapy time
+Parent Portal
+Videos
+Worksheets
+Progress reports
+
+Indianized image descriptions for autism school
+Here are Indianized, autism‑friendly image descriptions you can directly use in your website.
+I’ve written them in simple English, clear structure, and sensory‑safe language — perfect for accessibility (alt‑text), SEO, and Cursor AI image generation.
+I’m also adding visual reference tags so you can imagine the scenes clearly.
+🌈 1. Therapy Room Images
+
+
+
+Image Description 1 — Occupational Therapy Room
+A calm occupational therapy room with soft lighting, colorful mats, a small trampoline, therapy swings, and Indian children practicing balance exercises with a therapist wearing a simple kurta.
+Image Description 2 — Sensory Integration Room
+A sensory room with bean bags, textured walls, light‑weight balls, and a sensory tunnel. An Indian child is exploring textures while a therapist gently guides them.
+Image Description 3 — Fine Motor Skills Table
+A wooden table with beads, threading tools, stacking blocks, and pegboards. An Indian teacher helps a child complete a fine‑motor activity.
+🧠 2. Speech Therapy Images
+
+
+
+
+Image Description 4 — Speech Therapy Session
+An Indian speech therapist sitting across from a child, using picture cards and simple objects to teach words. Both are seated at a small table with minimal distractions.
+Image Description 5 — AAC Device Training
+A child using a tablet‑based AAC app with large icons. The therapist points to a “I want water” button while the child presses it.
+🏫 3. Classroom & Learning Images
+
+
+
+
+Image Description 6 — Autism Classroom
+A structured classroom with visual schedules on the wall, individual desks, soft colors, and Indian children working on worksheets with a special educator.
+Image Description 7 — Group Activity
+Three Indian children sitting in a circle doing a matching‑cards activity. The teacher encourages turn‑taking and sharing.
+Image Description 8 — Visual Schedule Board
+A close‑up of a visual schedule board showing icons for “Arrival”, “Circle Time”, “Therapy”, “Snack”, “Play”, “Home”.
+🎨 4. Art, Play & Sensory Activities
+
+
+
+
+Image Description 9 — Art Therapy
+Indian children painting with brushes and sponges. The therapist helps them mix colors. The environment is calm and clutter‑free.
+Image Description 10 — Outdoor Play
+Children playing on a slide and swing set in a small Indian school playground. A teacher supervises while encouraging social interaction.
+Image Description 11 — Sensory Play
+A child exploring rice, lentils, and sand in sensory bins — materials commonly used in Indian sensory activities.
+👩‍🏫 5. Teacher & Parent Interaction Images
+
+
+
+
+Image Description 12 — Teacher Helping Child
+An Indian teacher gently guiding a child through a writing activity. The child uses a pencil grip for support.
+Image Description 13 — Parent Meeting
+A parent and teacher sitting together discussing the child’s progress with charts and simple reports on the table.
+Image Description 14 — Home‑Based Training Demo
+A therapist showing a parent how to use simple household items (cups, spoons, clothespins) for home‑based therapy.
+🧩 6. Life Skills & Vocational Training Images
+
+
+
+
+Image Description 15 — Daily Living Skills
+A teenager practicing folding clothes with a teacher guiding step‑by‑step.
+Image Description 16 — Cooking Basics
+A child learning to make simple Indian snacks like poha or sandwiches with adult supervision.
+Image Description 17 — Vocational Tasks
+Older students sorting stationery items, packing small kits, or labeling envelopes.
+🏥 7. Assessment & Admission Images
+
+
+
+
+Image Description 18 — Child Assessment
+A therapist observing a child during a play‑based assessment using blocks, puzzles, and picture books.
+Image Description 19 — School Reception
+A warm, welcoming Indian school reception with soft colors, plants, and a friendly staff member greeting parents.
+🌍 8. Unique Global‑Inspired Features (Indianized)
+
+
+
+Image Description 20 — Social Story Book
+A simple illustrated book showing “My First Day at School” with Indian characters and familiar Indian settings.
+Image Description 21 — Sensory‑Safe Mode
+A calm, minimalistic version of the website interface with large text and muted colors.

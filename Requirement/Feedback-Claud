@@ -1,0 +1,47 @@
+Note : These are the gaps and risks that I have identified in the document.
+Gaps and risks
+1. Scope is too big for a v1.
+The doc mixes a brochure site with a parent portal with progress tracking, an AI chatbot, AI-generated therapy summaries, OCR for admissions, AI scheduling, a virtual tour and trilingual support. Those are separate products. I'd split it into phases:
+Phase 1 (launch): Home, About, Programs, Therapies, Admissions (with a simple inquiry form), Contact, Hiring Trainers, and the sensory-safe toggle.
+Phase 2: Gallery, Blog, visual schedule and social stories, Kannada/Hindi.
+Phase 3: Parent portal, AI features, virtual tour.
+2. Privacy and compliance is missing, and it matters here.
+You'd be collecting data about children's disabilities, medical reports and parents' ID proof.
+India's DPDP Act 2023 requires verifiable parental consent for children's data and imposes obligations on how it is stored and shared. Ask a legal advisor to confirm the details.
+Don't let the document upload or OCR feature store medical records on a basic setup. For v1, I'd suggest taking those documents at the in-person visit.
+Add a privacy policy, consent checkboxes on forms, and a data retention rule.
+The "US + India standards" point is mixed up. ADA is not what applies to a Bangalore school. India's relevant references are the RPwD Act 2016 and the GIGW guidelines, with WCAG 2.1 AA as the technical target.
+3. Content claims to be careful with.
+"Certified therapists", "evidence-based therapies", "inspired by leading autism centers worldwide" and "before/after progress stories" all need to be true and provable. For therapy and disability services, an unverified claim is a real risk.
+Progress stories need written parental consent, even if anonymous.
+ABA is debated in the autism community. Consider framing the approach as child-centered and strengths-based, and be clear about what your aunt's school actually practices. Parents and advocates will read this closely.
+Terms like "behavior modification" and "behavior shaping" can put off some families. "Skill building and positive support" tends to land better.
+Say "autistic children" or "children with autism" consistently, and avoid "Indianized" on the live site.
+4. Several sections are placeholders.
+The doc has no real content for the founder's name and story, address, phone, fees (it says "shared during consultation", which is fine), therapist qualifications, class timings, student capacity, or the RCI registration number. You can't build credibility without these. A real founder photo and story will do more than any stock imagery.
+5. Imagery and the AI image prompts.
+The 21 descriptions are good alt-text starters, but:
+AI-generated photos of children on a site for real children can feel deceptive to parents. Use real photos of the school, with signed photo consent, or illustrations. Use AI images only as temporary placeholders.
+Never use real children's faces without consent.
+A few descriptions have small gaps, such as the "Visual Schedule Board" and the "Sensory-Safe Mode" interface. Those are UI screenshots, not photos.
+6. Accessibility needs to be testable.
+Right now these are statements rather than acceptance criteria. I'd add checks like:
+Every page passes axe or Lighthouse accessibility with zero critical issues.
+Full keyboard path through the forms, with visible focus states.
+A "prefers-reduced-motion" setting is respected automatically, not just by the toggle.
+The sensory-safe toggle persists across pages and visits, and works without JavaScript errors.
+Test with at least one screen reader (NVDA or VoiceOver).
+Teal 
+#1A5E63 on sandalwood passes contrast, but check the turmeric 
+#E8B400 on beige. It will likely fail 4.5:1 for text, so use it only for decoration or on dark backgrounds.
+7. Practical details to decide.
+Hiring form: Where do applications go (email, Google Sheet, database)? What are the file size and type limits for resumes, and is there spam protection?
+WhatsApp: Use a click-to-chat link, and decide who answers it and when.
+Languages: Pick one i18n approach in Next.js up front (e.g., next-intl). Retrofitting it is painful.
+Hosting and performance: Vercel is fine, but check page speed on slow mobile networks, since many parents will browse on phones.
+SEO: Add local SEO for "autism school in Bangalore" and a Google Business Profile, which will bring in more parents than the site itself.
+Maintenance: Who updates content after launch? A headless CMS or even a simple markdown setup would let your aunt's team edit text without code.
+Things to cut or reconsider
+"No sudden animations" and "AI chatbot" pull in different directions. A chatbot on a site for families in a sensitive situation could give wrong therapy advice. If you add one, limit it to FAQs about admissions, fees and timings.
+The "Parent Training Portal" with progress tracking is the riskiest feature. Defer it.
+Drop the separate "Final Deliverables" section and replace it with a short prioritized backlog.
